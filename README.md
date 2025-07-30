@@ -34,7 +34,7 @@ I love working with modern web technologies like **React**, **Next.js**, **Fireb
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bilal243569&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+![](https://dev-learning-platform-jade.vercel.app/api?username=Bilal243569&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bilal243569&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal243569&theme=react&hide_border=false&layout=compact)
 
@@ -51,19 +51,13 @@ I love working with modern web technologies like **React**, **Next.js**, **Fireb
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=your-github-username&limit=5&theme=tokyonight)
+![]([https://dev-learning-platform-jade.vercel.app/]api?username=your-github-username&limit=5&theme=tokyonight)
 
 ---
 
 ## 📫 Want to Collaborate?
 If you're interested in collaborating on AI, web projects, or research, feel free to connect!
 
----
 
-### ⚠️ Replace:
-- `your-github-username` with your actual GitHub username
-- LinkedIn & Email links with your actual profile and email
 
----
 
-Let me know if you want me to fill in your actual GitHub username and social links — or generate a full live preview!
